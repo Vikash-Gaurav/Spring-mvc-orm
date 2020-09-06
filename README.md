@@ -1,0 +1,2 @@
+# Spring-mvc-orm
+0   Creating a spring mvc orm application . There are two controllers namely playerController and TeamController annotated with RequestMapping to perform actions related to these controller.I have used Java configuration for web.xml , dispatcher and for ApplicationContextConfig for defining beans for datasource , sessionFactory and HibernateTransactionManager.Using Mysql database.
